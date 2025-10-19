@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ife Timothy</h1>
 <h4 align="center">I'm an aspiring Software Developer, with experience in Full Stack Development.</h4>
 <h2>About Me</h2>
-<h5>I’m a Computer Science student at the University of Calgary with over three years of programming experience across multiple technologies, including Java, Python, JavaScript, HTML, CSS, and C. I’m an aspiring Full Stack Developer passionate about building scalable, user-focused applications.
+<h4>I’m a Computer Science student at the University of Calgary with over three years of programming experience across multiple technologies, including Java, Python, JavaScript, HTML, CSS, and C. I’m an aspiring Full Stack Developer passionate about building scalable, user-focused applications.
 
-I thrive in collaborative, problem-solving environments. I’m currently seeking internship opportunities where I can apply my technical foundation, grow as a developer, and take on real-world challenges in a fast-paced setting.</h5>
+I thrive in collaborative, problem-solving environments. I’m currently seeking internship opportunities where I can apply my technical foundation, grow as a developer, and take on real-world challenges in a fast-paced setting.</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
